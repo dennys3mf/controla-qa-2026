@@ -1,0 +1,19 @@
+{
+  "name": "controla-2026",
+  "version": "1.0.0",
+  "description": "Repositorio local estructurado con toda la documentación de Aseguramiento de Calidad (QA), inventario de funcionalidades, matrices de prueba, registro formal de defectos (bugs) y evidencias fotográficas anotadas para la instancia empresarial de **Controla.pe** (`https://plaeis.controla.pe`).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.3.8"
+  }
+}
